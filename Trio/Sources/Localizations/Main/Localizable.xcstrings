@@ -10034,7 +10034,6 @@
       }
     },
     "%lld h" : {
-      "extractionState" : "stale",
       "localizations" : {
         "bg" : {
           "stringUnit" : {
@@ -86487,6 +86486,9 @@
         }
       }
     },
+    "Deselect All" : {
+
+    },
     "Detailed" : {
       "localizations" : {
         "bg" : {
@@ -107920,6 +107922,9 @@
         }
       }
     },
+    "External Bolus" : {
+
+    },
     "External Insulin" : {
       "comment" : "A manually entered dose of external insulin",
       "localizations" : {
@@ -111907,6 +111912,9 @@
           }
         }
       }
+    },
+    "Filter" : {
+
     },
     "Fine-tune the ring’s Width and Gap to suit your design preferences." : {
       "localizations" : {
@@ -200434,6 +200442,9 @@
         }
       }
     },
+    "Select All" : {
+
+    },
     "Select CGM Model" : {
       "localizations" : {
         "bg" : {
@@ -227524,6 +227535,9 @@
         }
       }
     },
+    "The Detailed Watch/Carplay Screen Widget offers users a glucose chart as well as the current glucose, delta and the timestamp of current reading." : {
+
+    },
     "The Duration of Insulin Action (DIA) defines how long your insulin continues to lower glucose readings after a dose." : {
       "localizations" : {
         "bg" : {
@@ -251114,6 +251128,9 @@
         }
       }
     },
+    "Trio's Simple Watch/Carplay Widget displays current glucose reading, trend arrow, delta and the timestamp of the current reading." : {
+
+    },
     "Try again in a moment, or configure your Therapy Settings manually instead." : {
       "localizations" : {
         "bg" : {
@@ -261549,6 +261566,9 @@
           }
         }
       }
+    },
+    "Watch/Carplay Widget Style" : {
+
     },
     "We recommend reviewing them carefully — Trio will guide you step-by-step." : {
       "localizations" : {
